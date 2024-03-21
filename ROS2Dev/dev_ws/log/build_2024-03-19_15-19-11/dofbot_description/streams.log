@@ -1,0 +1,62 @@
+[0.227s] Invoking command in '/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ROS2Dev/dev_ws/src/install/mypkg_py:/home/tsmusr/ROS2Dev/dev_ws/src/install/dofbot_ctrl:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description -- -j2 -l2
+[0.302s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[0.778s] -- Configuring done
+[0.787s] -- Generating done
+[0.790s] -- Build files have been written to: /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description
+[1.093s] Invoked command in '/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ROS2Dev/dev_ws/src/install/mypkg_py:/home/tsmusr/ROS2Dev/dev_ws/src/install/dofbot_ctrl:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description -- -j2 -l2
+[1.677s] Invoking command in '/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ROS2Dev/dev_ws/src/install/mypkg_py:/home/tsmusr/ROS2Dev/dev_ws/src/install/dofbot_ctrl:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description
+[1.690s] -- Install configuration: ""
+[1.691s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes
+[1.702s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/yahboom_dofbot.srdf
+[1.702s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/sensor
+[1.703s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/sensor/visual
+[1.704s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/sensor/visual/mono_link.STL
+[1.704s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1
+[1.705s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual
+[1.706s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/link4.STL
+[1.706s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/base_link.STL
+[1.706s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/llink2.STL
+[1.707s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/link3.STL
+[1.707s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/llink1.STL
+[1.707s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/rlink1.STL
+[1.708s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/link1.STL
+[1.708s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/rlink3.STL
+[1.708s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/link2.STL
+[1.709s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/rlink2.STL
+[1.709s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/link5.STL
+[1.709s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/arm_link5.STL
+[1.709s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot_v1/visual/llink3.STL
+[1.710s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot
+[1.710s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual
+[1.711s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/lgrip_finger1.STL
+[1.711s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/rgrip_finger2.STL
+[1.712s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/base_link.STL
+[1.712s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/lgrip_finger2.STL
+[1.713s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/arm_link1.STL
+[1.713s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/arm_link2.STL
+[1.713s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/rgrip_finger3.STL
+[1.713s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/arm_link4.STL
+[1.714s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/lgrip_finger3.STL
+[1.714s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/arm_link3.STL
+[1.714s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/rgrip_finger1.STL
+[1.714s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/meshes/dofbot/visual/arm_link5.STL
+[1.715s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/urdf
+[1.721s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/urdf/dofbot_arm.urdf
+[1.724s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/urdf/dofbot_arm_v1.urdf
+[1.724s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/urdf/dofbot_arm_moveit.urdf
+[1.725s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/ament_index/resource_index/package_run_dependencies/dofbot_description
+[1.725s] -- Installing: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/ament_index/resource_index/parent_prefix_path/dofbot_description
+[1.725s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/environment/ament_prefix_path.sh
+[1.725s] -- Installing: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/environment/ament_prefix_path.dsv
+[1.725s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/environment/path.sh
+[1.725s] -- Installing: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/environment/path.dsv
+[1.725s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/local_setup.bash
+[1.726s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/local_setup.sh
+[1.727s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/local_setup.zsh
+[1.727s] -- Installing: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/local_setup.dsv
+[1.727s] -- Installing: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/package.dsv
+[1.727s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/ament_index/resource_index/packages/dofbot_description
+[1.730s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/cmake/dofbot_descriptionConfig.cmake
+[1.730s] -- Up-to-date: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/cmake/dofbot_descriptionConfig-version.cmake
+[1.730s] -- Installing: /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_description/share/dofbot_description/package.xml
+[1.743s] Invoked command in '/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ROS2Dev/dev_ws/src/install/mypkg_py:/home/tsmusr/ROS2Dev/dev_ws/src/install/dofbot_ctrl:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description

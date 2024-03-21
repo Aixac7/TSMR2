@@ -1,0 +1,38 @@
+[1.668s] Invoking command in '/home/tsmusr/ROS2Dev/dev_ws/src/dofbot_ctrl': PYTHONPATH=/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/prefix_override:/home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/dofbot_ctrl build --build-base /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build install --record /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/install.log --single-version-externally-managed
+[2.102s] running egg_info
+[2.102s] creating ../../build/dofbot_ctrl/dofbot_ctrl.egg-info
+[2.103s] writing ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/PKG-INFO
+[2.103s] writing dependency_links to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/dependency_links.txt
+[2.103s] writing entry points to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/entry_points.txt
+[2.103s] writing requirements to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/requires.txt
+[2.103s] writing top-level names to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/top_level.txt
+[2.103s] writing manifest file '../../build/dofbot_ctrl/dofbot_ctrl.egg-info/SOURCES.txt'
+[2.105s] reading manifest file '../../build/dofbot_ctrl/dofbot_ctrl.egg-info/SOURCES.txt'
+[2.106s] adding license file 'LICENSE'
+[2.106s] writing manifest file '../../build/dofbot_ctrl/dofbot_ctrl.egg-info/SOURCES.txt'
+[2.107s] running build
+[2.107s] running build_py
+[2.107s] creating /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build
+[2.108s] creating /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build/lib
+[2.108s] creating /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build/lib/dofbot_ctrl
+[2.108s] copying dofbot_ctrl/dofbot_node.py -> /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build/lib/dofbot_ctrl
+[2.109s] copying dofbot_ctrl/__init__.py -> /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build/lib/dofbot_ctrl
+[2.110s] running install
+[2.110s] running install_lib
+[2.111s] creating /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl
+[2.112s] copying /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build/lib/dofbot_ctrl/dofbot_node.py -> /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl
+[2.112s] copying /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build/lib/dofbot_ctrl/__init__.py -> /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl
+[2.113s] byte-compiling /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl/dofbot_node.py to dofbot_node.cpython-310.pyc
+[2.114s] byte-compiling /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl/__init__.py to __init__.cpython-310.pyc
+[2.114s] running install_data
+[2.115s] creating /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/share/ament_index
+[2.115s] creating /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/share/ament_index/resource_index
+[2.116s] creating /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/share/ament_index/resource_index/packages
+[2.116s] copying resource/dofbot_ctrl -> /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/share/ament_index/resource_index/packages
+[2.116s] copying package.xml -> /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/share/dofbot_ctrl
+[2.117s] running install_egg_info
+[2.119s] Copying ../../build/dofbot_ctrl/dofbot_ctrl.egg-info to /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl-0.0.0-py3.10.egg-info
+[2.121s] running install_scripts
+[2.152s] Installing dofbot_node script to /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/dofbot_ctrl
+[2.153s] writing list of installed files to '/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/install.log'
+[2.195s] Invoked command in '/home/tsmusr/ROS2Dev/dev_ws/src/dofbot_ctrl' returned '0': PYTHONPATH=/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/prefix_override:/home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/dofbot_ctrl build --build-base /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build install --record /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/install.log --single-version-externally-managed

@@ -1,0 +1,21 @@
+[1.286s] Invoking command in '/home/tsmusr/ROS2Dev/dev_ws/src/mypkg_py': LD_LIBRARY_PATH=/home/tsmusr/ROS2Dev/dev_ws/install/mypkg_interfaces/lib:/home/tsmusr/ROS2Dev/dev_ws/src/install/mypkg_interfaces/lib:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/tsmusr/ROS2Dev/dev_ws/build/mypkg_py/prefix_override:/home/tsmusr/ROS2Dev/dev_ws/install/mypkg_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg_py build --build-base /home/tsmusr/ROS2Dev/dev_ws/build/mypkg_py/build install --record /home/tsmusr/ROS2Dev/dev_ws/build/mypkg_py/install.log --single-version-externally-managed
+[1.613s] running egg_info
+[1.613s] writing ../../build/mypkg_py/mypkg_py.egg-info/PKG-INFO
+[1.614s] writing dependency_links to ../../build/mypkg_py/mypkg_py.egg-info/dependency_links.txt
+[1.616s] writing entry points to ../../build/mypkg_py/mypkg_py.egg-info/entry_points.txt
+[1.616s] writing requirements to ../../build/mypkg_py/mypkg_py.egg-info/requires.txt
+[1.617s] writing top-level names to ../../build/mypkg_py/mypkg_py.egg-info/top_level.txt
+[1.619s] reading manifest file '../../build/mypkg_py/mypkg_py.egg-info/SOURCES.txt'
+[1.620s] writing manifest file '../../build/mypkg_py/mypkg_py.egg-info/SOURCES.txt'
+[1.620s] running build
+[1.620s] running build_py
+[1.621s] running install
+[1.621s] running install_lib
+[1.623s] running install_data
+[1.623s] running install_egg_info
+[1.625s] removing '/home/tsmusr/ROS2Dev/dev_ws/install/mypkg_py/lib/python3.10/site-packages/mypkg_py-0.0.0-py3.10.egg-info' (and everything under it)
+[1.626s] Copying ../../build/mypkg_py/mypkg_py.egg-info to /home/tsmusr/ROS2Dev/dev_ws/install/mypkg_py/lib/python3.10/site-packages/mypkg_py-0.0.0-py3.10.egg-info
+[1.627s] running install_scripts
+[1.647s] Installing test_nodo script to /home/tsmusr/ROS2Dev/dev_ws/install/mypkg_py/lib/mypkg_py
+[1.648s] writing list of installed files to '/home/tsmusr/ROS2Dev/dev_ws/build/mypkg_py/install.log'
+[1.679s] Invoked command in '/home/tsmusr/ROS2Dev/dev_ws/src/mypkg_py' returned '0': LD_LIBRARY_PATH=/home/tsmusr/ROS2Dev/dev_ws/install/mypkg_interfaces/lib:/home/tsmusr/ROS2Dev/dev_ws/src/install/mypkg_interfaces/lib:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/tsmusr/ROS2Dev/dev_ws/build/mypkg_py/prefix_override:/home/tsmusr/ROS2Dev/dev_ws/install/mypkg_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg_py build --build-base /home/tsmusr/ROS2Dev/dev_ws/build/mypkg_py/build install --record /home/tsmusr/ROS2Dev/dev_ws/build/mypkg_py/install.log --single-version-externally-managed

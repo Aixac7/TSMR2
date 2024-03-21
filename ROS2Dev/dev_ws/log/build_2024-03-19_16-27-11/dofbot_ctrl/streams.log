@@ -1,0 +1,22 @@
+[1.600s] Invoking command in '/home/tsmusr/ROS2Dev/dev_ws/src/dofbot_ctrl': PYTHONPATH=/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/prefix_override:/home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/dofbot_ctrl build --build-base /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build install --record /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/install.log --single-version-externally-managed
+[1.973s] running egg_info
+[1.973s] writing ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/PKG-INFO
+[1.974s] writing dependency_links to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/dependency_links.txt
+[1.974s] writing entry points to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/entry_points.txt
+[1.975s] writing requirements to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/requires.txt
+[1.975s] writing top-level names to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/top_level.txt
+[1.977s] reading manifest file '../../build/dofbot_ctrl/dofbot_ctrl.egg-info/SOURCES.txt'
+[1.978s] adding license file 'LICENSE'
+[1.979s] writing manifest file '../../build/dofbot_ctrl/dofbot_ctrl.egg-info/SOURCES.txt'
+[1.979s] running build
+[1.979s] running build_py
+[1.979s] running install
+[1.979s] running install_lib
+[1.981s] running install_data
+[1.982s] running install_egg_info
+[1.984s] removing '/home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl-0.0.0-py3.10.egg-info' (and everything under it)
+[1.984s] Copying ../../build/dofbot_ctrl/dofbot_ctrl.egg-info to /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl-0.0.0-py3.10.egg-info
+[1.985s] running install_scripts
+[2.009s] Installing dofbot_node script to /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/dofbot_ctrl
+[2.010s] writing list of installed files to '/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/install.log'
+[2.122s] Invoked command in '/home/tsmusr/ROS2Dev/dev_ws/src/dofbot_ctrl' returned '0': PYTHONPATH=/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/prefix_override:/home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/dofbot_ctrl build --build-base /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/build install --record /home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/install.log --single-version-externally-managed

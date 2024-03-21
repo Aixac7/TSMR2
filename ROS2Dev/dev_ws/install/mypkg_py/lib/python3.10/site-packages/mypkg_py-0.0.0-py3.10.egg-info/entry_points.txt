@@ -1,0 +1,3 @@
+[console_scripts]
+test_nodo = mypkg_py.nodo_demo:main
+

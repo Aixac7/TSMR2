@@ -1,0 +1,3 @@
+[console_scripts]
+dofbot_node = dofbot_ctrl.dofbot_node:main
+

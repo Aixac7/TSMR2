@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/PKG-INFO
+writing dependency_links to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/dependency_links.txt
+writing entry points to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/entry_points.txt
+writing requirements to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/requires.txt
+writing top-level names to ../../build/dofbot_ctrl/dofbot_ctrl.egg-info/top_level.txt
+reading manifest file '../../build/dofbot_ctrl/dofbot_ctrl.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/dofbot_ctrl/dofbot_ctrl.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/demo.launch.py -> /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/share/dofbot_ctrl
+running install_egg_info
+removing '/home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/dofbot_ctrl/dofbot_ctrl.egg-info to /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/python3.10/site-packages/dofbot_ctrl-0.0.0-py3.10.egg-info
+running install_scripts
+Installing dofbot_node script to /home/tsmusr/ROS2Dev/dev_ws/install/dofbot_ctrl/lib/dofbot_ctrl
+writing list of installed files to '/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_ctrl/install.log'

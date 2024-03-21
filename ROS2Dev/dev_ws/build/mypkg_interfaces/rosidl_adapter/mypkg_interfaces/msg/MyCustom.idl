@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mypkg_interfaces/msg/MyCustom.msg
+// generated code does not contain a copyright notice
+
+
+module mypkg_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      "Estructura del mensaje personalizado" "\n"
+      "geometry_msgs/msg/Pose2D pose2d")
+    struct MyCustom {
+      string data;
+
+      float valor_f;
+
+      int32 valor_i;
+    };
+  };
+};

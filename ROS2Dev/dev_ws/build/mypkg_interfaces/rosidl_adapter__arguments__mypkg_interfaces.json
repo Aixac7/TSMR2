@@ -1,0 +1,6 @@
+{
+  "package_name": "mypkg_interfaces",
+  "non_idl_tuples": [
+    "/home/tsmusr/ROS2Dev/dev_ws/src/mypkg_interfaces:msg/MyCustom.msg"
+  ]
+}

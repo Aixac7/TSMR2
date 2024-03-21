@@ -1,0 +1,3 @@
+-- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+-- Configuring incomplete, errors occurred!
+See also "/home/tsmusr/ROS2Dev/dev_ws/build/dofbot_description/CMakeFiles/CMakeOutput.log".

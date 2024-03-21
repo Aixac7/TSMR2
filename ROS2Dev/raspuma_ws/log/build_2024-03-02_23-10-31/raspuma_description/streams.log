@@ -1,0 +1,42 @@
+[0.319s] Invoking command in '/home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ws_moveit/install/moveit_configs_utils:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description -- -j2 -l2
+[0.423s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.066s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.395s] -- Configuring done
+[1.399s] -- Generating done
+[1.401s] -- Build files have been written to: /home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description
+[1.475s] Invoked command in '/home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ws_moveit/install/moveit_configs_utils:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description -- -j2 -l2
+[1.604s] Invoking command in '/home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ws_moveit/install/moveit_configs_utils:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description
+[1.633s] -- Install configuration: ""
+[1.635s] -- Execute custom install script
+[1.636s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//launch/display.launch
+[1.637s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//launch/gazebo.launch
+[1.638s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//meshes/base_link.STL
+[1.638s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//meshes/body_cam.STL
+[1.639s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//meshes/camera.STL
+[1.640s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//meshes/left_wheel.STL
+[1.640s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//meshes/right_wheel.STL
+[1.641s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//rviz/urdf.rviz
+[1.642s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//urdf/CAD_Rasbot_URDF.csv
+[1.643s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//urdf/mobil_base.xacro
+[1.643s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//urdf/raspuma.gazebo.xacro
+[1.645s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//urdf/raspuma.urdf
+[1.645s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//urdf/raspuma2.gazebo.xacro
+[1.646s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//urdf/raspuma2_urdf.xacro
+[1.647s] -- Up-to-date symlink: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//urdf/raspuma_urdf.xacro
+[1.648s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description//config/joint_names_CAD_Rasbot_URDF.yaml
+[1.685s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/ament_index/resource_index/package_run_dependencies/raspuma_description
+[1.720s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/ament_index/resource_index/parent_prefix_path/raspuma_description
+[1.755s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/environment/ament_prefix_path.sh
+[1.793s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/environment/ament_prefix_path.dsv
+[1.824s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/environment/path.sh
+[1.855s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/environment/path.dsv
+[1.889s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/local_setup.bash
+[1.921s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/local_setup.sh
+[1.955s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/local_setup.zsh
+[2.000s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/local_setup.dsv
+[2.022s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/package.dsv
+[2.038s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/ament_index/resource_index/packages/raspuma_description
+[2.069s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/cmake/raspuma_descriptionConfig.cmake
+[2.107s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/cmake/raspuma_descriptionConfig-version.cmake
+[2.139s] -- Symlinking: /home/tsmusr/ROS2Dev/raspuma_ws/install/raspuma_description/share/raspuma_description/package.xml
+[2.194s] Invoked command in '/home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tsmusr/ws_moveit/install/moveit_configs_utils:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_teleop:/home/tsmusr/ROS2Dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/tsmusr/ROS2Dev/raspuma_ws/build/raspuma_description
